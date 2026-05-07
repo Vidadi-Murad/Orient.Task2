@@ -3,7 +3,7 @@
 //  Task2
 //
 //  Created by Vidadi Muradzada on 06.05.26.
-//
+//  Task about nil/optional
 
 import Foundation
 
